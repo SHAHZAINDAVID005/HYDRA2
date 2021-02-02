@@ -3,13 +3,9 @@
 ##   Author \tab : \tab SHAHZAIN DAVID JOIYA\par
 ##   Version \tab : \tab 2.0\par
 ##   Github \tab : \tab {{\field{\*\fldinst{HYPERLINK https://github.com/SHAHZAINDAVID005 }}{\fldrslt{https://github.com/SHAHZAINDAVID005\ul0\cf0}}}}\f1\fs22\lang1066\par
-\par
-\par
-\par
+
 ## If you Copy Then Give the credits :)\par
-\par
-\par
-\par
+
 ##                   GNU GENERAL PUBLIC LICENSE\par
 ##                    Version 3, 29 June 2007\par
 ##\par
