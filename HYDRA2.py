@@ -1,4 +1,4 @@
-{\rtf1\ansi\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}{\f1\fnil\fcharset163 Calibri;}{\f2\fnil\fcharset1 Segoe UI Symbol;}}
+
 {\colortbl ;\red0\green0\blue255;}
 {\*\generator Riched20 10.0.10240}\viewkind4\uc1 
 \pard\sa200\sl276\slmult1\f0\fs22\lang9 #!/bin/bash\par
