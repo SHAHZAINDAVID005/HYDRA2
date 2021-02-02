@@ -1,8 +1,4 @@
 
-{\colortbl ;\red0\green0\blue255;}
-{\*\generator Riched20 10.0.10240}\viewkind4\uc1 
-\pard\sa200\sl276\slmult1\f0\fs22\lang9 #!/bin/bash\par
-\par
 ##   Zphisher \tab : \tab Automated Phishing Tool\par
 ##   Author \tab : \tab SHAHZAIN DAVID JOIYA\par
 ##   Version \tab : \tab 2.0\par
